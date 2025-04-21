@@ -1,4 +1,4 @@
-## André, or Andrezinho, whatever you prefer!
+## André "Andrezinho"
 
 ##
 
