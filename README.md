@@ -1,8 +1,5 @@
 ## André, or Andrezinho, whatever you prefer!
 
-- 🔭 Front-end
-- 😄 Pronouns: hi/his
-
 ##
 
 <div style="display: inline_block"><br>
