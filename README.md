@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -10,62 +10,65 @@
 </p>
 
 <p align="center">
-  Building modern digital experiences with a passion for performance, scalability and clean architecture.
+  Building modern digital experiences with a passion for performance, clean architecture and great user experiences.
 </p>
 
 <p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider" />
+  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
 ## About Me
 
-I'm André Almeida, a Brazilian Full Stack Developer passionate about building modern software with a strong focus on performance, scalability and clean architecture.
+I'm André, a Brazilian Full Stack Developer passionate about building modern applications with a strong focus on performance, scalability and clean architecture.
 
-I enjoy transforming ideas into polished digital products, creating reliable backend systems and modern web applications with attention to every detail.
+I enjoy turning ideas into polished digital products, from modern frontends to robust backend systems, always striving for clean, maintainable and high-quality code.
 
 - 🇧🇷 Based in Brazil
 - 💼 Full Stack Developer
 - 🤖 Discord Developer
-- 🚀 Always building and learning
+- 🚀 Building premium digital experiences
 
 <p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider" />
+  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
 ## Tech Stack
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,mysql,git,github,vscode&perline=6"
+    src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,discordjs,express,python,lua,java,php,mysql,sqlite,git,github,vscode,linux,cloudflare,vercel,npm&perline=8"
     alt="Tech Stack"
   />
 </p>
 
 <p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider" />
+  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
 ## Currently
 
-- 🚀 Building modern digital experiences
+- 🚀 Building premium digital experiences
 - ⚙️ Developing scalable backend systems
 - 🤖 Creating Discord applications
-- 📚 Exploring new technologies
+- 📚 Learning something new every day
 
 <p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider" />
+  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
 ## Website
 
 <p align="center">
-  <a href="https://andrezinho.site">andrezinho.site</a>
+  <a href="https://andrezinho.site">Web site</a>
 </p>
 
 <p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider" />
+  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
 <p align="center">
-  <sub>Built with passion for code.</sub>
+  <sub><strong>Design × Development × Innovation</strong></sub>
 </p>
+
+
+ajuste aqui e me envie.
