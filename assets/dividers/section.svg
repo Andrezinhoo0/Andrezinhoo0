@@ -1,0 +1,14 @@
+<svg width="900" height="18" viewBox="0 0 900 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<line x1="0" y1="9" x2="350" y2="9"
+stroke="#30363D"
+stroke-width="2"/>
+
+<circle cx="450" cy="9" r="4"
+fill="#58A6FF"/>
+
+<line x1="550" y1="9" x2="900" y2="9"
+stroke="#30363D"
+stroke-width="2"/>
+
+</svg>
