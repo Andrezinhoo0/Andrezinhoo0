@@ -22,39 +22,58 @@ It's about creating experiences that feel intuitive, performant and memorable.
 
 # Toolbox
 
-### Languages
+<p align="center">
 
-JavaScript • TypeScript • Python • SQL
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,python,mysql,git,github,vscode,figma&perline=7" />
 
-### Frontend
-
-HTML • CSS • React • Next.js
-
-### Backend
-
-Node.js • Discord.js • REST APIs
-
-### Tools
-
-Git • GitHub • VS Code • Figma
+</p>
 
 ---
 
-# Current Focus
+# Quick Facts
 
-- Improving software architecture
-- Creating polished user interfaces
-- Learning new technologies
-- Building high quality personal projects
+```yaml
+Name: André 
+Location: Brazil 🇧🇷
+Focus: Full Stack Development
+Passion: UI/UX Design
+Learning: Software Architecture
+```
+
+## Current Focus
+
+- 🚀 Building premium digital experiences
+- 🎨 Creating polished interfaces
+- ⚡ Writing clean and scalable code
+- 📚 Learning something new every day
 
 ---
 
 # GitHub Analytics
 
-<!-- Vamos adicionar os cards depois -->
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrezinho0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho0&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</p>
 
 ---
 
 # Connect
 
-🌐 https://www.andrezinho.site
+<p align="center">
+
+<a href="https://github.com/Andrezinho0">GitHub</a> •
+<a href="https://andrezinho.site">Website</a>
+
+</p>
+
+---
+
+<p align="center">
+
+Design × Code × Experience
+
+</p>
