@@ -3,77 +3,84 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Digital+Experiences;UI%2FUX+Enthusiast;Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Digital+Experiences;UI%2FUX+Designer;Node.js+•+TypeScript+•+Next.js" />
 </p>
 
 <p align="center">
 Building modern digital experiences with a passion for performance, design and clean architecture.
 </p>
 
----
-
-# Philosophy
-
-I believe great software is more than writing clean code.
-
-It's about creating experiences that feel intuitive, performant and memorable.
-
----
-
-# Toolbox
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,python,mysql,git,github,vscode,figma&perline=7" />
-
+  <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
----
+# About Me
+
+I'm André, a Brazilian Full Stack Developer passionate about building modern applications with a strong focus on user experience, performance and clean architecture.
+
+I enjoy transforming ideas into polished digital products, from beautiful interfaces to scalable backend systems.
+
+<p align="center">
+  <img src="./assets/dividers/section.svg" width="100%">
+</p>
+
+# Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,python,mysql,git,github,vscode,figma&perline=7"/>
+</p>
+
+<p align="center">
+  <img src="./assets/dividers/section.svg" width="100%">
+</p>
 
 # Quick Facts
 
 ```yaml
-Name: André 
+Name: André Almeida
 Location: Brazil 🇧🇷
-Focus: Full Stack Development
+Role: Full Stack Developer
 Passion: UI/UX Design
-Learning: Software Architecture
+Currently Learning: Software Architecture
 ```
 
-## Current Focus
+<p align="center">
+  <img src="./assets/dividers/section.svg" width="100%">
+</p>
+
+# Currently
 
 - 🚀 Building premium digital experiences
-- 🎨 Creating polished interfaces
+- 🎨 Creating polished user interfaces
 - ⚡ Writing clean and scalable code
 - 📚 Learning something new every day
 
----
-
-# GitHub Analytics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrezinho0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho0&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
+  <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
----
+# GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrezinho0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho0&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+</p>
+
+<p align="center">
+  <img src="./assets/dividers/section.svg" width="100%">
+</p>
 
 # Connect
 
 <p align="center">
-
-<a href="https://github.com/Andrezinho0">GitHub</a> •
-<a href="https://andrezinho.site">Website</a>
-
+  <a href="https://github.com/Andrezinho0">GitHub</a> •
+  <a href="https://andrezinho.site">Website</a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/dividers/section.svg" width="100%">
+</p>
 
 <p align="center">
-
-Design × Code × Experience
-
+  <sub>Design × Code × Experience</sub>
 </p>
