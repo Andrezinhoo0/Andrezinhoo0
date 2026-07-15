@@ -56,25 +56,6 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
   <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Andrezinho0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho0&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
-</p>
-
 ## Website
 
 <p align="center">
