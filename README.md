@@ -7,24 +7,29 @@
 </p>
 
 <p align="center">
-Building modern digital experiences with a passion for performance, design and clean architecture.
+  Building modern digital experiences with a passion for performance, design and clean architecture.
 </p>
 
 <p align="center">
   <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
-# About Me
+## About Me
 
-I'm André, a Brazilian Full Stack Developer passionate about building modern applications with a strong focus on user experience, performance and clean architecture.
+I'm André Almeida, a Brazilian Full Stack Developer passionate about creating modern applications with a strong focus on user experience, performance and clean architecture.
 
-I enjoy transforming ideas into polished digital products, from beautiful interfaces to scalable backend systems.
+I enjoy transforming ideas into polished digital products, from intuitive interfaces to scalable backend systems, always paying attention to the smallest details.
+
+- 🇧🇷 Based in Brazil
+- 💼 Full Stack Developer
+- 🎨 Passionate about UI/UX Design
+- 🚀 Focused on building premium digital experiences
 
 <p align="center">
   <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
-# Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,python,mysql,git,github,vscode,figma&perline=7"/>
@@ -34,32 +39,18 @@ I enjoy transforming ideas into polished digital products, from beautiful interf
   <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
-# Quick Facts
-
-```yaml
-Name: André Almeida
-Location: Brazil 🇧🇷
-Role: Full Stack Developer
-Passion: UI/UX Design
-Currently Learning: Software Architecture
-```
-
-<p align="center">
-  <img src="./assets/dividers/section.svg" width="100%">
-</p>
-
-# Currently
+## Currently
 
 - 🚀 Building premium digital experiences
 - 🎨 Creating polished user interfaces
-- ⚡ Writing clean and scalable code
+- ⚡ Writing clean, scalable and maintainable code
 - 📚 Learning something new every day
 
 <p align="center">
   <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andrezinho0&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
@@ -70,10 +61,11 @@ Currently Learning: Software Architecture
   <img src="./assets/dividers/section.svg" width="100%">
 </p>
 
-# Connect
+## Connect
 
 <p align="center">
-  <a href="https://github.com/Andrezinho0">GitHub</a> •
+  <a href="https://github.com/Andrezinho0">GitHub</a>
+  &nbsp;•&nbsp;
   <a href="https://andrezinho.site">Website</a>
 </p>
 
@@ -82,5 +74,5 @@ Currently Learning: Software Architecture
 </p>
 
 <p align="center">
-  <sub>Design × Code × Experience</sub>
+  <sub><strong>Design × Code × Experience</strong></sub>
 </p>
