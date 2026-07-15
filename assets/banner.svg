@@ -1,1 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg"></svg>
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+
+        <linearGradient id="background" x1="0" y1="0" x2="1280" y2="320">
+            <stop offset="0%" stop-color="#0D1117"/>
+            <stop offset="100%" stop-color="#111827"/>
+        </linearGradient>
+
+        <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0">
+            <stop offset="0%" stop-color="#58A6FF"/>
+            <stop offset="100%" stop-color="#79C0FF"/>
+        </linearGradient>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="4" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+
+    <rect width="1280" height="320" rx="20" fill="url(#background)"/>
+
+    <line x1="80" y1="70" x2="1200" y2="70"
+          stroke="url(#accent)"
+          stroke-width="2"
+          opacity=".25"/>
+
+    <line x1="80" y1="250" x2="1200" y2="250"
+          stroke="url(#accent)"
+          stroke-width="2"
+          opacity=".25"/>
+
+    <circle
+        cx="160"
+        cy="160"
+        r="48"
+        stroke="#58A6FF"
+        stroke-width="2"
+        opacity=".6"/>
+
+    <circle
+        cx="160"
+        cy="160"
+        r="32"
+        stroke="#79C0FF"
+        stroke-width="2"
+        opacity=".35"/>
+
+    <text
+        x="260"
+        y="145"
+        fill="#F0F6FC"
+        font-size="42"
+        font-family="Segoe UI"
+        font-weight="700">
+
+        André "Andrezinho"
+
+    </text>
+
+    <text
+        x="260"
+        y="185"
+        fill="#8B949E"
+        font-size="20"
+        font-family="Segoe UI">
+
+        Full Stack Developer
+
+    </text>
+
+    <line
+        x1="260"
+        y1="205"
+        x2="470"
+        y2="205"
+        stroke="#58A6FF"
+        stroke-width="3"
+        filter="url(#glow)"/>
+
+</svg>
