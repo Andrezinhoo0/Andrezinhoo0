@@ -35,10 +35,15 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
 ## Tech Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,discordjs,express,python,lua,java,php,mysql,sqlite,git,github,vscode,linux,cloudflare,vercel,npm&perline=8"
-    alt="Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs,cs,dotnet,python,java,php&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,mysql,sqlite,git,github,linux&perline=6" />
 </p>
 
 <p align="center">
@@ -56,7 +61,7 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
   <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
 </p>
 
-## Website
+## Connect with me
 
 <p align="center">
   <a href="https://andrezinho.site">Web site</a>
