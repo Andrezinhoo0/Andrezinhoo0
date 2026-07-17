@@ -5,10 +5,30 @@
     viewBox="0 0 1536 960"
 >
 
+    <!-- Background -->
     <rect
         width="1536"
         height="960"
         fill="#05070D"
+    />
+
+    <!-- Outer Frame -->
+    <path
+        d="
+        M 30 16
+        L 1494 16
+        L 1514 36
+        L 1514 924
+        L 1494 944
+        L 30 944
+        L 10 924
+        L 10 36
+        Z
+        "
+        fill="none"
+        stroke="#0B72FF"
+        stroke-width="1.2"
+        opacity=".55"
     />
 
 </svg>
