@@ -1,85 +1,158 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-    <defs>
+<defs>
 
-        <linearGradient id="background" x1="0" y1="0" x2="1280" y2="320">
-            <stop offset="0%" stop-color="#0D1117"/>
-            <stop offset="100%" stop-color="#111827"/>
-        </linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420">
+<stop offset="0%" stop-color="#0D1117"/>
+<stop offset="100%" stop-color="#111827"/>
+</linearGradient>
 
-        <linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0">
-            <stop offset="0%" stop-color="#58A6FF"/>
-            <stop offset="100%" stop-color="#79C0FF"/>
-        </linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1280" y2="0">
+<stop offset="0%" stop-color="#58A6FF"/>
+<stop offset="50%" stop-color="#79C0FF"/>
+<stop offset="100%" stop-color="#58A6FF"/>
+</linearGradient>
 
-        <filter id="glow">
-            <feGaussianBlur stdDeviation="4" result="blur"/>
-            <feMerge>
-                <feMergeNode in="blur"/>
-                <feMergeNode in="SourceGraphic"/>
-            </feMerge>
-        </filter>
+<filter id="blur">
+<feGaussianBlur stdDeviation="20"/>
+</filter>
 
-    </defs>
+</defs>
 
-    <rect width="1280" height="320" rx="20" fill="url(#background)"/>
+<rect
+width="1280"
+height="420"
+rx="22"
+fill="url(#bg)"/>
 
-    <line x1="80" y1="70" x2="1200" y2="70"
-          stroke="url(#accent)"
-          stroke-width="2"
-          opacity=".25"/>
+<!-- topo -->
 
-    <line x1="80" y1="250" x2="1200" y2="250"
-          stroke="url(#accent)"
-          stroke-width="2"
-          opacity=".25"/>
+<circle cx="60" cy="55" r="6" fill="#3FB950"/>
 
-    <circle
-        cx="160"
-        cy="160"
-        r="48"
-        stroke="#58A6FF"
-        stroke-width="2"
-        opacity=".6"/>
+<text
+x="78"
+y="61"
+fill="#3FB950"
+font-size="16"
+font-family="Segoe UI"
+font-weight="600">
 
-    <circle
-        cx="160"
-        cy="160"
-        r="32"
-        stroke="#79C0FF"
-        stroke-width="2"
-        opacity=".35"/>
+ONLINE
 
-    <text
-        x="260"
-        y="145"
-        fill="#F0F6FC"
-        font-size="42"
-        font-family="Segoe UI"
-        font-weight="700">
+</text>
 
-        André "Andrezinho"
+<text
+x="1130"
+y="61"
+fill="#8B949E"
+font-size="16"
+font-family="Segoe UI">
 
-    </text>
+@Andrezinho0
 
-    <text
-        x="260"
-        y="185"
-        fill="#8B949E"
-        font-size="20"
-        font-family="Segoe UI">
+</text>
 
-        Full Stack Developer
+<!-- linhas -->
 
-    </text>
+<line
+x1="40"
+y1="90"
+x2="1240"
+y2="90"
+stroke="url(#accent)"
+stroke-opacity=".25"/>
 
-    <line
-        x1="260"
-        y1="205"
-        x2="470"
-        y2="205"
-        stroke="#58A6FF"
-        stroke-width="3"
-        filter="url(#glow)"/>
+<line
+x1="40"
+y1="340"
+x2="1240"
+y2="340"
+stroke="url(#accent)"
+stroke-opacity=".25"/>
+
+<!-- brilho -->
+
+<circle
+cx="640"
+cy="170"
+r="95"
+fill="#58A6FF"
+opacity=".08"
+filter="url(#blur)"/>
+
+<!-- avatar placeholder -->
+
+<circle
+cx="640"
+cy="170"
+r="58"
+fill="#161B22"
+stroke="#58A6FF"
+stroke-width="2"/>
+
+<circle
+cx="640"
+cy="170"
+r="44"
+fill="none"
+stroke="#79C0FF"
+stroke-opacity=".4"/>
+
+<!-- nome -->
+
+<text
+x="640"
+y="275"
+text-anchor="middle"
+fill="#F0F6FC"
+font-size="36"
+font-family="Segoe UI"
+font-weight="700">
+
+André "Andrezinho"
+
+</text>
+
+<!-- cargo -->
+
+<text
+x="640"
+y="305"
+text-anchor="middle"
+fill="#8B949E"
+font-size="19"
+font-family="Segoe UI">
+
+Full Stack Developer
+
+</text>
+
+<!-- descrição -->
+
+<text
+x="640"
+y="330"
+text-anchor="middle"
+fill="#6E7681"
+font-size="15"
+font-family="Segoe UI">
+
+Building modern digital experiences.
+
+</text>
+
+<!-- barra inferior -->
+
+<text
+x="640"
+y="382"
+text-anchor="middle"
+fill="#58A6FF"
+font-size="15"
+font-family="Segoe UI">
+
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Discord.js • C# • .NET • Python • Lua • Java • PHP • MySQL • Git
+
+</text>
 
 </svg>
