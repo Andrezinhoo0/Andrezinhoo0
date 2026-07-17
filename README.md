@@ -75,5 +75,3 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
   <sub><strong>Design × Development × Innovation</strong></sub>
 </p>
 
-
-ajuste aqui e me envie.
