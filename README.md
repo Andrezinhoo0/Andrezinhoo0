@@ -52,10 +52,15 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
 
 ## Connect with me
 
-<p align="center">
-  <a href="https://andrezinho.site">Web site</a>
+<p>
+  <a href="mailto:email@exemplo.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail&theme=dark"
+      width="32"
+      alt="Email"
+    />
+  </a>
 </p>
-
 
 
 
