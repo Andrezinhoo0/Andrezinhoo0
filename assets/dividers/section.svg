@@ -4,7 +4,7 @@
 
         <linearGradient id="line" x1="0" y1="12" x2="1000" y2="12">
             <stop offset="0%" stop-color="#30363D"/>
-            <stop offset="50%" stop-color="#58A6FF"/>
+            <stop offset="50%" stop-color="#0B72FF"/>
             <stop offset="100%" stop-color="#30363D"/>
         </linearGradient>
 
@@ -26,7 +26,7 @@
         width="500"
         height="16"
         rx="8"
-        fill="#58A6FF"/>
+        fill="#0B72FF"/>
 
     <!-- < -->
     <polyline
