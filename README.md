@@ -2,20 +2,9 @@
   <img src="./assets/hero.svg" width="100%" alt="Banner"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Digital+Experiences;Discord+Developer;Node.js+%7C+TypeScript+%7C+Next.js"
-    alt="Typing SVG"
-  />
-</p>
 
-<p align="center">
-  Building modern digital experiences with a passion for performance, clean architecture and great user experiences.
-</p>
 
-<p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
-</p>
+
 
 ## About Me
 
