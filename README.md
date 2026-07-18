@@ -56,11 +56,6 @@ I enjoy turning ideas into polished digital products, from modern frontends to r
   <a href="https://andrezinho.site">Web site</a>
 </p>
 
-<p align="center">
-  <img src="./assets/dividers/section.svg" width="100%" alt="Divider"/>
-</p>
 
-<p align="center">
-  <sub><strong>Design × Development × Innovation</strong></sub>
-</p>
+
 
