@@ -8,37 +8,57 @@
             <stop offset="100%" stop-color="#30363D"/>
         </linearGradient>
 
-        <filter id="glow">
-            <feGaussianBlur stdDeviation="2"/>
-        </filter>
-
     </defs>
 
+    <!-- Linha esquerda -->
     <line
         x1="0"
         y1="12"
-        x2="430"
+        x2="250"
         y2="12"
         stroke="url(#line)"
         stroke-width="2"/>
 
+    <!-- Badge -->
     <rect
-        x="470"
-        y="6"
-        width="60"
-        height="12"
-        rx="6"
+        x="250"
+        y="4"
+        width="500"
+        height="16"
+        rx="8"
         fill="#58A6FF"/>
 
-    <circle
-        cx="500"
-        cy="12"
-        r="3"
-        fill="#F0F6FC"
-        filter="url(#glow)"/>
+    <!-- < -->
+    <polyline
+        points="492,8 487,12 492,16"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
 
+    <!-- / -->
     <line
-        x1="570"
+        x1="498"
+        y1="17"
+        x2="502"
+        y2="7"
+        stroke="#FFFFFF"
+        stroke-width="2"
+        stroke-linecap="round"/>
+
+    <!-- > -->
+    <polyline
+        points="508,8 513,12 508,16"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+    <!-- Linha direita -->
+    <line
+        x1="750"
         y1="12"
         x2="1000"
         y2="12"
