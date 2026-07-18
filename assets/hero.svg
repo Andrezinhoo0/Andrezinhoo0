@@ -31,4 +31,870 @@
         opacity=".55"
     />
 
+    <!-- Top Separator -->
+<line
+    x1="100"
+    y1="116"
+    x2="1468"
+    y2="116"
+    stroke="#0B72FF"
+    stroke-width="1"
+    opacity=".45"
+/>
+
+<!-- Status Indicator -->
+<circle
+    cx="110"
+    cy="75"
+    r="10"
+    fill="#00FF99"
+/>
+
+<circle
+    cx="110"
+    cy="75"
+    r="14"
+    fill="none"
+    stroke="#00FF99"
+    stroke-width="2"
+    opacity=".6"
+/>
+
+<!-- Status -->
+<text
+    x="138"
+    y="83"
+    fill="#78FFD2"
+    font-size="22"
+    font-family="Consolas, monospace"
+    letter-spacing="2"
+>
+SYSTEM ONLINE
+</text>
+
+<!-- Username -->
+<text
+    x="1180"
+    y="83"
+    fill="#1E9CFF"
+    font-size="22"
+    font-family="Consolas, monospace"
+>
+@Andrezinhoo0
+</text>
+
+<!-- Window Dots -->
+<circle cx="1380" cy="75" r="9" fill="none" stroke="#1E9CFF" stroke-width="2"/>
+<circle cx="1416" cy="75" r="9" fill="none" stroke="#B7C4FF" stroke-width="2"/>
+<circle cx="1452" cy="75" r="9" fill="none" stroke="#00FF99" stroke-width="2"/>
+
+    <!-- Left Sidebar -->
+<line
+    x1="78"
+    y1="148"
+    x2="78"
+    y2="878"
+    stroke="#0B72FF"
+    stroke-width="1"
+    opacity=".45"
+/>
+
+<!-- Decorative top -->
+<line x1="78" y1="52" x2="78" y2="88" stroke="#0B72FF" stroke-width="1" opacity=".25"/>
+<line x1="76" y1="52" x2="56" y2="72" stroke="#0B72FF" stroke-width="1" opacity=".15"/>
+
+<!-- Icons -->
+
+<text
+    x="40"
+    y="385"
+    fill="#1493ff"
+    font-size="28"
+    font-family="Segoe UI Symbol"
+>
+›
+</text>
+
+<text
+    x="28"
+    y="455"
+    fill="#1493ff"
+    font-size="30"
+    font-family="Segoe UI Symbol"
+>
+👤
+</text>
+
+<text
+    x="25"
+    y="525"
+    fill="#1493ff"
+    font-size="28"
+    font-family="Consolas"
+>
+&lt;/&gt;
+</text>
+
+<text
+    x="28"
+    y="595"
+    fill="#1493ff"
+    font-size="28"
+    font-family="Segoe UI Symbol"
+>
+⌗
+</text>
+
+<text
+    x="28"
+    y="665"
+    fill="#1493ff"
+    font-size="28"
+    font-family="Segoe UI Symbol"
+>
+✉
+</text>
+
+<!-- Small HUD details -->
+<line x1="40" y1="340" x2="50" y2="340" stroke="#1493ff" opacity=".35"/>
+<line x1="38" y1="690" x2="44" y2="690" stroke="#1493ff" opacity=".35"/>
+<line x1="36" y1="355" x2="36" y2="365" stroke="#1493ff" opacity=".35"/>
+
+    <!-- Hero -->
+
+<text
+    x="170"
+    y="250"
+    fill="#FFFFFF"
+    font-size="78"
+    font-family="Inter, Arial, sans-serif"
+    font-weight="700"
+>
+André
+</text>
+
+<text
+    x="170"
+    y="325"
+    fill="#FFFFFF"
+    font-size="78"
+    font-family="Inter, Arial, sans-serif"
+    font-weight="700"
+>
+"Andrezinho"
+</text>
+
+<text
+    x="170"
+    y="385"
+    fill="#1493FF"
+    font-size="32"
+    font-family="Consolas, monospace"
+    letter-spacing="3"
+>
+FULL STACK DEVELOPER
+</text>
+
+<line
+    x1="170"
+    y1="418"
+    x2="420"
+    y2="418"
+    stroke="#1493FF"
+    stroke-width="2"
+    opacity=".6"
+/>
+
+<text
+    x="170"
+    y="470"
+    fill="#AAB4C3"
+    font-size="24"
+    font-family="Inter, Arial, sans-serif"
+>
+Building modern digital experiences with
+</text>
+
+<text
+    x="170"
+    y="505"
+    fill="#AAB4C3"
+    font-size="24"
+    font-family="Inter, Arial, sans-serif"
+>
+performance, clean architecture and
+</text>
+
+<text
+    x="170"
+    y="540"
+    fill="#AAB4C3"
+    font-size="24"
+    font-family="Inter, Arial, sans-serif"
+>
+attention to detail.
+</text>
+
+    <!-- ====================================== -->
+<!-- Info Card -->
+<!-- ====================================== -->
+
+<path
+    d="
+        M1028 180
+        H1352
+        L1370 198
+        V502
+        L1352 520
+        H1028
+        L1010 502
+        V198
+        Z
+    "
+    fill="#07111F"
+    stroke="url(#borderGradient)"
+    stroke-width="1.2"
+    filter="url(#blueGlow)"
+/>
+
+<!-- Glow -->
+<rect
+    x="1006"
+    y="176"
+    width="368"
+    height="348"
+    rx="20"
+    fill="none"
+    stroke="#1493FF"
+    stroke-opacity=".15"
+/>
+
+<!-- Title -->
+<text
+    x="1045"
+    y="225"
+    fill="#1493FF"
+    font-size="18"
+    font-family="Consolas, monospace"
+    letter-spacing="2"
+>
+SYSTEM INFORMATION
+</text>
+
+<line
+    x1="1045"
+    y1="240"
+    x2="1335"
+    y2="240"
+    stroke="#1493FF"
+    opacity=".25"
+/>
+
+<!-- Row 1 -->
+<text
+    x="1045"
+    y="285"
+    fill="#7A8CA6"
+    font-size="16"
+    font-family="Consolas"
+>
+LOCATION
+</text>
+
+<text
+    x="1045"
+    y="315"
+    fill="#FFFFFF"
+    font-size="24"
+    font-family="Inter"
+>
+Brazil
+</text>
+
+<!-- Row 2 -->
+<text
+    x="1045"
+    y="365"
+    fill="#7A8CA6"
+    font-size="16"
+    font-family="Consolas"
+>
+FOCUS
+</text>
+
+<text
+    x="1045"
+    y="395"
+    fill="#FFFFFF"
+    font-size="24"
+    font-family="Inter"
+>
+Full Stack
+</text>
+
+<!-- Row 3 -->
+<text
+    x="1045"
+    y="445"
+    fill="#7A8CA6"
+    font-size="16"
+    font-family="Consolas"
+>
+STATUS
+</text>
+
+<circle
+    cx="1054"
+    cy="474"
+    r="6"
+    fill="#00FF9D"
+/>
+
+<text
+    x="1075"
+    y="481"
+    fill="#FFFFFF"
+    font-size="22"
+    font-family="Inter"
+>
+Available
+</text>
+
+<!-- ====================================== -->
+<!-- Avatar HUD -->
+<!-- ====================================== -->
+
+<!-- Outer Ring -->
+<circle
+    cx="760"
+    cy="340"
+    r="128"
+    fill="none"
+    stroke="#1493FF"
+    stroke-width="2"
+    opacity=".35"
+/>
+
+<!-- Ring 2 -->
+<circle
+    cx="760"
+    cy="340"
+    r="112"
+    fill="none"
+    stroke="#1493FF"
+    stroke-width="1"
+    opacity=".55"
+/>
+
+<!-- Ring 3 -->
+<circle
+    cx="760"
+    cy="340"
+    r="96"
+    fill="none"
+    stroke="#1493FF"
+    stroke-width="1"
+    opacity=".25"
+/>
+
+<!-- Center -->
+<circle
+    cx="760"
+    cy="340"
+    r="82"
+    fill="#08121F"
+    stroke="#1493FF"
+    stroke-width="2"
+/>
+
+<!-- Glow -->
+<circle
+    cx="760"
+    cy="340"
+    r="135"
+    fill="none"
+    stroke="#1493FF"
+    stroke-width="12"
+    opacity=".05"
+/>
+
+<!-- Crosshair -->
+<line
+    x1="620"
+    y1="340"
+    x2="900"
+    y2="340"
+    stroke="#1493FF"
+    stroke-width="1"
+    opacity=".18"
+/>
+
+<line
+    x1="760"
+    y1="200"
+    x2="760"
+    y2="480"
+    stroke="#1493FF"
+    stroke-width="1"
+    opacity=".18"
+/>
+
+<!-- Corner Marks -->
+<line x1="760" y1="200" x2="760" y2="214" stroke="#1493FF"/>
+<line x1="760" y1="466" x2="760" y2="480" stroke="#1493FF"/>
+
+<line x1="620" y1="340" x2="634" y2="340" stroke="#1493FF"/>
+<line x1="886" y1="340" x2="900" y2="340" stroke="#1493FF"/>
+
+<!-- Small Dots -->
+<circle cx="760" cy="212" r="3" fill="#1493FF"/>
+<circle cx="760" cy="468" r="3" fill="#1493FF"/>
+<circle cx="632" cy="340" r="3" fill="#1493FF"/>
+<circle cx="888" cy="340" r="3" fill="#1493FF"/>
+
+<!-- ====================================== -->
+<!-- Terminal -->
+<!-- ====================================== -->
+
+<path
+    d="
+        M188 620
+        H822
+        L840 638
+        V822
+        L822 840
+        H188
+        L170 822
+        V638
+        Z
+    "
+    fill="#050B14"
+    stroke="url(#borderGradient)"
+    stroke-width="1.2"
+    filter="url(#blueGlow)"
+/>
+
+<!-- Header -->
+<rect
+    x="170"
+    y="620"
+    width="670"
+    height="42"
+    rx="18"
+    fill="#08131F"
+/>
+
+<rect
+    x="170"
+    y="644"
+    width="670"
+    height="18"
+    fill="#08131F"
+/>
+
+<!-- Window Buttons -->
+<circle cx="200" cy="641" r="5" fill="#ff5f56"/>
+<circle cx="220" cy="641" r="5" fill="#ffbd2e"/>
+<circle cx="240" cy="641" r="5" fill="#27c93f"/>
+
+<text
+    x="285"
+    y="646"
+    fill="#6F89A6"
+    font-size="15"
+    font-family="Consolas, monospace"
+>
+terminal
+</text>
+
+<!-- Commands -->
+
+<text
+    x="195"
+    y="700"
+    fill="#1493FF"
+    font-size="19"
+    font-family="Consolas, monospace"
+>
+$
+</text>
+
+<text
+    x="220"
+    y="700"
+    fill="#FFFFFF"
+    font-size="19"
+    font-family="Consolas, monospace"
+>
+whoami
+</text>
+
+<text
+    x="220"
+    y="730"
+    fill="#AAB4C3"
+    font-size="18"
+    font-family="Consolas, monospace"
+>
+> Andre
+</text>
+
+<text
+    x="195"
+    y="770"
+    fill="#1493FF"
+    font-size="19"
+    font-family="Consolas, monospace"
+>
+$
+</text>
+
+<text
+    x="220"
+    y="770"
+    fill="#FFFFFF"
+    font-size="19"
+    font-family="Consolas, monospace"
+>
+coffee
+</text>
+
+<text
+    x="220"
+    y="800"
+    fill="#AAB4C3"
+    font-size="18"
+    font-family="Consolas, monospace"
+>
+> Required ☕
+</text>
+
+<!-- Cursor -->
+<rect
+    x="500"
+    y="786"
+    width="10"
+    height="20"
+    fill="#1493FF"
+>
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="1s"
+        repeatCount="indefinite"
+    />
+</rect>
+
+    <!-- ====================================== -->
+<!-- HUD Details -->
+<!-- ====================================== -->
+
+<!-- Grid -->
+<g opacity=".06">
+
+    <!-- Vertical -->
+    <line x1="240" y1="140" x2="240" y2="900" stroke="#1493FF"/>
+    <line x1="440" y1="140" x2="440" y2="900" stroke="#1493FF"/>
+    <line x1="640" y1="140" x2="640" y2="900" stroke="#1493FF"/>
+    <line x1="840" y1="140" x2="840" y2="900" stroke="#1493FF"/>
+    <line x1="1040" y1="140" x2="1040" y2="900" stroke="#1493FF"/>
+    <line x1="1240" y1="140" x2="1240" y2="900" stroke="#1493FF"/>
+
+    <!-- Horizontal -->
+    <line x1="100" y1="220" x2="1460" y2="220" stroke="#1493FF"/>
+    <line x1="100" y1="380" x2="1460" y2="380" stroke="#1493FF"/>
+    <line x1="100" y1="540" x2="1460" y2="540" stroke="#1493FF"/>
+    <line x1="100" y1="700" x2="1460" y2="700" stroke="#1493FF"/>
+    <line x1="100" y1="860" x2="1460" y2="860" stroke="#1493FF"/>
+
+</g>
+
+<!-- Corner Marks -->
+
+<path
+    d="M170 170 H210 V166"
+    stroke="#1493FF"
+    stroke-width="2"
+    fill="none"
+/>
+
+<path
+    d="M1366 170 H1326 V166"
+    stroke="#1493FF"
+    stroke-width="2"
+    fill="none"
+/>
+
+<path
+    d="M170 860 H210 V864"
+    stroke="#1493FF"
+    stroke-width="2"
+    fill="none"
+/>
+
+<path
+    d="M1366 860 H1326 V864"
+    stroke="#1493FF"
+    stroke-width="2"
+    fill="none"
+/>
+
+<!-- Decorative Dots -->
+
+<g fill="#1493FF" opacity=".35">
+
+<circle cx="950" cy="612" r="2"/>
+<circle cx="965" cy="612" r="2"/>
+<circle cx="980" cy="612" r="2"/>
+<circle cx="995" cy="612" r="2"/>
+
+<circle cx="950" cy="627" r="2"/>
+<circle cx="965" cy="627" r="2"/>
+<circle cx="980" cy="627" r="2"/>
+<circle cx="995" cy="627" r="2"/>
+
+<circle cx="950" cy="642" r="2"/>
+<circle cx="965" cy="642" r="2"/>
+<circle cx="980" cy="642" r="2"/>
+<circle cx="995" cy="642" r="2"/>
+
+</g>
+
+<!-- Divider -->
+
+<line
+    x1="920"
+    y1="600"
+    x2="1365"
+    y2="600"
+    stroke="#1493FF"
+    opacity=".15"
+/>
+
+    <!-- ====================================== -->
+<!-- Particle Wave -->
+<!-- ====================================== -->
+
+<defs>
+
+<radialGradient id="particleGlow">
+    <stop offset="0%" stop-color="#6BD9FF"/>
+    <stop offset="100%" stop-color="#1493FF"/>
+</radialGradient>
+
+    <filter id="blueGlow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="blur"/>
+    <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+</filter>
+
+<linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#38B6FF"/>
+    <stop offset="50%" stop-color="#1493FF"/>
+    <stop offset="100%" stop-color="#0A5FFF"/>
+</linearGradient>
+
+</defs>
+
+<g opacity=".85">
+
+<!-- Linha 1 -->
+<circle cx="930" cy="705" r="1.8" fill="url(#particleGlow)"/>
+<circle cx="960" cy="698" r="2" fill="url(#particleGlow)"/>
+<circle cx="990" cy="692" r="2.2" fill="url(#particleGlow)"/>
+<circle cx="1020" cy="688" r="2.5" fill="url(#particleGlow)"/>
+<circle cx="1050" cy="684" r="2.8" fill="url(#particleGlow)"/>
+<circle cx="1080" cy="683" r="3" fill="url(#particleGlow)"/>
+<circle cx="1110" cy="685" r="2.8" fill="url(#particleGlow)"/>
+<circle cx="1140" cy="690" r="2.5" fill="url(#particleGlow)"/>
+<circle cx="1170" cy="697" r="2.2" fill="url(#particleGlow)"/>
+<circle cx="1200" cy="706" r="2" fill="url(#particleGlow)"/>
+<circle cx="1230" cy="717" r="1.8" fill="url(#particleGlow)"/>
+
+<!-- Linha 2 -->
+
+<circle cx="945" cy="740" r="1.6" fill="url(#particleGlow)"/>
+<circle cx="975" cy="734" r="1.9" fill="url(#particleGlow)"/>
+<circle cx="1005" cy="728" r="2.1" fill="url(#particleGlow)"/>
+<circle cx="1035" cy="724" r="2.4" fill="url(#particleGlow)"/>
+<circle cx="1065" cy="721" r="2.6" fill="url(#particleGlow)"/>
+<circle cx="1095" cy="720" r="2.8" fill="url(#particleGlow)"/>
+<circle cx="1125" cy="722" r="2.6" fill="url(#particleGlow)"/>
+<circle cx="1155" cy="726" r="2.4" fill="url(#particleGlow)"/>
+<circle cx="1185" cy="733" r="2.1" fill="url(#particleGlow)"/>
+<circle cx="1215" cy="742" r="1.9" fill="url(#particleGlow)"/>
+
+<!-- Linha 3 -->
+
+<circle cx="960" cy="775" r="1.5" fill="url(#particleGlow)"/>
+<circle cx="990" cy="769" r="1.8" fill="url(#particleGlow)"/>
+<circle cx="1020" cy="764" r="2" fill="url(#particleGlow)"/>
+<circle cx="1050" cy="760" r="2.3" fill="url(#particleGlow)"/>
+<circle cx="1080" cy="758" r="2.5" fill="url(#particleGlow)"/>
+<circle cx="1110" cy="759" r="2.3" fill="url(#particleGlow)"/>
+<circle cx="1140" cy="763" r="2.1" fill="url(#particleGlow)"/>
+<circle cx="1170" cy="769" r="1.8" fill="url(#particleGlow)"/>
+<circle cx="1200" cy="777" r="1.5" fill="url(#particleGlow)"/>
+
+</g>
+
+<!-- ====================================== -->
+<!-- Tech Dock -->
+<!-- ====================================== -->
+
+<g id="tech-dock">
+
+    <!-- Background -->
+    <path
+        d="
+            M383 875
+            H1167
+            L1175 883
+            V929
+            L1167 937
+            H383
+            L375 929
+            V883
+            Z
+        "
+        fill="#07111D"
+        stroke="url(#borderGradient)"
+        stroke-width="1"
+        filter="url(#blueGlow)"
+    />
+
+    <!-- Glow -->
+    <rect
+        x="375"
+        y="875"
+        width="800"
+        height="62"
+        rx="30"
+        fill="none"
+        stroke="#1493FF"
+        opacity=".10"
+    />
+
+    <!-- Área visível -->
+    <clipPath id="dockClip">
+        <rect
+            x="392"
+            y="884"
+            width="766"
+            height="44"
+        />
+    </clipPath>
+
+    <g clip-path="url(#dockClip)">
+
+        <g id="ticker">
+
+            <text
+                x="398"
+                y="912"
+                fill="#FFFFFF"
+                font-size="18"
+                font-family="Consolas"
+                xml:space="preserve"
+                textLength="2760"
+                lengthAdjust="spacing"
+            >
+HTML • CSS • TypeScript • React • Next.js • Node.js • Discord.js • Python • C# • .NET • Lua • MySQL • Git • Linux • HTML • CSS • TypeScript • React • Next.js • Node.js • Discord.js • Python • C# • .NET • Lua • MySQL • Git • Linux •
+            </text>
+
+            <animateTransform
+                attributeName="transform"
+                type="translate"
+                from="0 0"
+                to="-1380 0"
+                dur="22s"
+                repeatCount="indefinite"
+            />
+
+        </g>
+
+    </g>
+
+</g>
+
+<!-- ====================================== -->
+<!-- HUD Connections -->
+<!-- ====================================== -->
+
+<g
+    stroke="#1493FF"
+    stroke-width="1.2"
+    fill="none"
+    opacity=".25"
+>
+
+    <!-- Hero -> Avatar -->
+    <path d="M430 418 H560 V340 H620"/>
+
+    <!-- Avatar -> Info -->
+    <path d="M900 340 H980 V270 H1010"/>
+
+    <!-- Avatar -> Terminal -->
+    <path d="M760 470 V620"/>
+
+    <!-- Terminal -> Dock -->
+    <path d="M505 840 V875"/>
+
+    <!-- Info -> Wave -->
+    <path d="M1190 520 V640 H1080"/>
+
+</g>
+
+<!-- Connection Points -->
+
+<g fill="#1493FF">
+
+    <circle cx="430" cy="418" r="3"/>
+    <circle cx="620" cy="340" r="3"/>
+
+    <circle cx="900" cy="340" r="3"/>
+    <circle cx="1010" cy="270" r="3"/>
+
+    <circle cx="760" cy="470" r="3"/>
+    <circle cx="760" cy="620" r="3"/>
+
+    <circle cx="505" cy="840" r="3"/>
+    <circle cx="505" cy="875" r="3"/>
+
+    <circle cx="1190" cy="520" r="3"/>
+    <circle cx="1080" cy="640" r="3"/>
+
+</g>
+
+<!-- Scanning Lines -->
+
+<line
+    x1="100"
+    y1="170"
+    x2="1468"
+    y2="170"
+    stroke="#1493FF"
+    opacity=".05"
+/>
+
+<line
+    x1="100"
+    y1="560"
+    x2="1468"
+    y2="560"
+    stroke="#1493FF"
+    opacity=".05"
+/>
+
+<line
+    x1="100"
+    y1="835"
+    x2="1468"
+    y2="835"
+    stroke="#1493FF"
+    opacity=".05"
+/>
+
 </svg>
