@@ -66,7 +66,7 @@
     y="83"
     fill="#78FFD2"
     font-size="22"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
     letter-spacing="2"
 >
 SYSTEM ONLINE
@@ -78,7 +78,7 @@ SYSTEM ONLINE
     y="83"
     fill="#1E9CFF"
     font-size="22"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
 >
 @Andrezinhoo0
 </text>
@@ -167,7 +167,7 @@ SYSTEM ONLINE
     y="250"
     fill="#FFFFFF"
     font-size="78"
-    font-family="Inter, Arial, sans-serif"
+    font-family="'Space Grotesk', sans-serif"
     font-weight="700"
 >
 André
@@ -178,7 +178,7 @@ André
     y="325"
     fill="#FFFFFF"
     font-size="78"
-    font-family="Inter, Arial, sans-serif"
+    font-family="'Space Grotesk', sans-serif"
     font-weight="700"
 >
 "Andrezinho"
@@ -275,7 +275,7 @@ attention to detail.
     y="225"
     fill="#1493FF"
     font-size="18"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
     letter-spacing="2"
 >
 SYSTEM INFORMATION
@@ -296,7 +296,7 @@ SYSTEM INFORMATION
     y="285"
     fill="#7A8CA6"
     font-size="16"
-    font-family="Consolas"
+    font-family="'JetBrains Mono', monospace"
 >
 LOCATION
 </text>
@@ -306,7 +306,7 @@ LOCATION
     y="315"
     fill="#FFFFFF"
     font-size="24"
-    font-family="Inter"
+    font-family="'Inter', sans-serif"
 >
 Brazil
 </text>
@@ -317,7 +317,7 @@ Brazil
     y="365"
     fill="#7A8CA6"
     font-size="16"
-    font-family="Consolas"
+    font-family="'JetBrains Mono', monospace"
 >
 FOCUS
 </text>
@@ -327,7 +327,7 @@ FOCUS
     y="395"
     fill="#FFFFFF"
     font-size="24"
-    font-family="Inter"
+    font-family="'Inter', sans-serif"
 >
 Full Stack
 </text>
@@ -338,7 +338,7 @@ Full Stack
     y="445"
     fill="#7A8CA6"
     font-size="16"
-    font-family="Consolas"
+    font-family="'JetBrains Mono', monospace"
 >
 STATUS
 </text>
@@ -355,7 +355,7 @@ STATUS
     y="481"
     fill="#FFFFFF"
     font-size="22"
-    font-family="Inter"
+    font-family="'Inter', sans-serif"
 >
 Available
 </text>
@@ -502,7 +502,8 @@ Available
     y="646"
     fill="#6F89A6"
     font-size="15"
-    font-family="Consolas, monospace"
+    font-family="'Space Grotesk', sans-serif"
+    font-weight="600"
 >
 terminal
 </text>
@@ -514,7 +515,7 @@ terminal
     y="700"
     fill="#1493FF"
     font-size="19"
-    font-family="Consolas, monospace"
+   font-family="'JetBrains Mono', monospace"
 >
 $
 </text>
@@ -524,7 +525,7 @@ $
     y="700"
     fill="#FFFFFF"
     font-size="19"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
 >
 whoami
 </text>
@@ -534,7 +535,7 @@ whoami
     y="730"
     fill="#AAB4C3"
     font-size="18"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
 >
 > Andre
 </text>
@@ -544,7 +545,7 @@ whoami
     y="770"
     fill="#1493FF"
     font-size="19"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
 >
 $
 </text>
@@ -554,7 +555,7 @@ $
     y="770"
     fill="#FFFFFF"
     font-size="19"
-    font-family="Consolas, monospace"
+   font-family="'JetBrains Mono', monospace"
 >
 coffee
 </text>
@@ -564,7 +565,7 @@ coffee
     y="800"
     fill="#AAB4C3"
     font-size="18"
-    font-family="Consolas, monospace"
+    font-family="'JetBrains Mono', monospace"
 >
 > Required ☕
 </text>
@@ -671,7 +672,7 @@ coffee
     opacity=".15"
 />
 
-    <!-- ====================================== -->
+<!-- ====================================== -->
 <!-- Particle Wave -->
 <!-- ====================================== -->
 
@@ -697,6 +698,10 @@ coffee
 </linearGradient>
 
 </defs>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap');
+</style>
 
 <g opacity=".85">
 
@@ -796,7 +801,7 @@ coffee
                 y="912"
                 fill="#FFFFFF"
                 font-size="18"
-                font-family="Consolas"
+                font-family="'JetBrains Mono', monospace"
                 xml:space="preserve"
                 textLength="2760"
                 lengthAdjust="spacing"
