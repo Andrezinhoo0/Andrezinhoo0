@@ -810,7 +810,7 @@ HTML • CSS • TypeScript • React • Next.js • Node.js • Discord.js •
                 type="translate"
                 from="0 0"
                 to="-1380 0"
-                dur="22s"
+                dur="50s"
                 repeatCount="indefinite"
             />
 
